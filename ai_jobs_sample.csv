@@ -1,0 +1,501 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2024,Senior Level,Full Time,Data Science Consultant,122000,USD,122000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,148000,USD,148000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Engineer,161000,USD,161000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Analyst,150000,USD,150000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,146000,USD,146000,US,0,US,Medium
+2024,Senior Level,Full Time,Business Intelligence,120000,USD,120000,US,100,US,Medium
+2022,Senior Level,Full Time,Ml Engineer,240000,USD,240000,US,0,US,Medium
+2023,Entry Level,Full Time,Research Analyst,60000,USD,60000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,248000,USD,248000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,201400,USD,201400,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,118600,USD,118600,US,0,US,Medium
+2023,Senior Level,Full Time,Data Modeler,130000,USD,130000,US,100,US,Large
+2023,Senior Level,Full Time,Data Architect,107500,USD,107500,CA,100,CA,Medium
+2024,Senior Level,Full Time,Data Engineer,103000,USD,103000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,94000,USD,94000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,166000,USD,166000,US,100,US,Medium
+2024,Mid Level,Full Time,Data Analyst,83552,USD,83552,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,173000,USD,173000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,88854,USD,88854,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,193200,USD,193200,US,0,US,Medium
+2023,Entry Level,Full Time,Business Intelligence Analyst,40000,GBP,49216,GB,0,GB,Medium
+2024,Senior Level,Full Time,Data Scientist,145000,USD,145000,US,0,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,108000,USD,108000,CA,100,CA,Medium
+2023,Senior Level,Full Time,Data Scientist,106200,USD,106200,AU,0,AU,Medium
+2021,Senior Level,Full Time,Head Of Data,87000,EUR,102839,SI,100,SI,Large
+2024,Senior Level,Full Time,Analytics Engineer,132100,USD,132100,US,100,US,Medium
+2022,Senior Level,Full Time,Data Architect,136000,USD,136000,US,100,US,Medium
+2024,Mid Level,Full Time,Research Scientist,195500,USD,195500,US,100,US,Medium
+2022,Senior Level,Full Time,Data Scientist,120160,USD,120160,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,204662,USD,204662,US,0,US,Medium
+2022,Senior Level,Full Time,Data Management Specialist,65000,EUR,68293,IT,0,IT,Large
+2022,Entry Level,Full Time,Data Engineer,135000,USD,135000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Product Manager,200000,USD,200000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Analyst,120000,USD,120000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,180500,USD,180500,US,0,US,Medium
+2024,Entry Level,Full Time,Research Analyst,79300,USD,79300,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,134500,USD,134500,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,151800,USD,151800,US,100,US,Medium
+2024,Senior Level,Full Time,Analytics Engineer,130000,USD,130000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Specialist,90000,USD,90000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Analyst,55000,USD,55000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Science,145400,USD,145400,US,0,US,Medium
+2024,Senior Level,Full Time,Data Science,106605,USD,106605,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,218185,USD,218185,US,100,US,Medium
+2021,Senior Level,Full Time,Data Engineer,65000,EUR,76833,RO,50,GB,Small
+2023,Entry Level,Full Time,Data Analyst,44000,GBP,54137,GB,0,GB,Medium
+2024,Mid Level,Part Time,Research Scientist,86000,USD,86000,US,0,US,Medium
+2023,Mid Level,Full Time,Research Scientist,252990,USD,252990,US,100,US,Medium
+2023,Senior Level,Full Time,Nlp Engineer,69500,EUR,75038,ES,100,ES,Medium
+2023,Executive,Full Time,Machine Learning Engineer,145000,USD,145000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,273500,USD,273500,US,0,US,Medium
+2022,Senior Level,Full Time,Data Scientist,170000,USD,170000,US,100,US,Medium
+2024,Mid Level,Full Time,Data Analytics Consultant,57500,USD,57500,US,100,US,Medium
+2023,Mid Level,Full Time,Bi Developer,76300,USD,76300,US,0,US,Medium
+2022,Mid Level,Full Time,Data Engineer,60000,GBP,73880,GB,0,GB,Medium
+2023,Mid Level,Full Time,Machine Learning Scientist,230000,USD,230000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,106605,USD,106605,US,0,US,Medium
+2023,Entry Level,Full Time,Research Engineer,73000,USD,73000,US,0,US,Medium
+2024,Mid Level,Full Time,Machine Learning Developer,125000,USD,125000,CA,0,CA,Medium
+2023,Senior Level,Full Time,Computer Vision Engineer,280000,USD,280000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,177000,USD,177000,US,100,US,Medium
+2024,Mid Level,Full Time,Business Intelligence Developer,77826,USD,77826,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,232200,USD,232200,US,100,US,Medium
+2024,Mid Level,Full Time,Data Engineer,81500,USD,81500,US,0,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Engineer,138900,USD,138900,US,100,US,Medium
+2023,Senior Level,Full Time,Data Science Engineer,100000,USD,100000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,68400,USD,68400,US,0,US,Medium
+2023,Entry Level,Full Time,Research Scientist,100000,USD,100000,US,0,US,Medium
+2024,Mid Level,Full Time,Analytics Engineer,117400,USD,117400,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,237000,USD,237000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Analyst,146190,USD,146190,US,0,US,Medium
+2023,Mid Level,Full Time,Machine Learning Engineer,45000,EUR,48585,IT,100,GB,Medium
+2024,Mid Level,Full Time,Research Scientist,160000,USD,160000,US,100,US,Medium
+2024,Mid Level,Full Time,Research Scientist,138000,USD,138000,US,0,US,Medium
+2024,Mid Level,Full Time,Analytics Engineer,97400,USD,97400,US,0,US,Medium
+2022,Senior Level,Full Time,Machine Learning Engineer,160000,USD,160000,US,100,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,245000,USD,245000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,135920,USD,135920,US,100,US,Medium
+2024,Mid Level,Full Time,Data Analyst,106000,USD,106000,US,0,US,Medium
+2023,Executive,Full Time,Data Engineer,200000,USD,200000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Analyst,128800,USD,128800,US,0,US,Medium
+2021,Entry Level,Full Time,Data Analyst,80000,USD,80000,US,100,US,Medium
+2023,Entry Level,Full Time,Research Engineer,150000,USD,150000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Science,95000,USD,95000,US,0,US,Medium
+2024,Senior Level,Full Time,Ml Engineer,190000,USD,190000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,146800,USD,146800,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,204500,USD,204500,US,100,US,Medium
+2023,Entry Level,Full Time,Data Engineer,75000,GBP,92280,GB,0,GB,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,90000,USD,90000,CO,0,CO,Medium
+2024,Senior Level,Full Time,Data Scientist,70000,GBP,87500,GB,0,GB,Medium
+2023,Senior Level,Full Time,Data Engineer,141000,USD,141000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,200000,USD,200000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Engineer,210500,USD,210500,US,0,US,Medium
+2024,Entry Level,Full Time,Data Analyst,70000,USD,70000,CA,0,CA,Medium
+2024,Senior Level,Full Time,Data Engineer,165000,USD,165000,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Infrastructure Engineer,152000,USD,152000,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,153090,USD,153090,US,0,US,Medium
+2021,Mid Level,Full Time,Data Scientist,82500,USD,82500,US,100,US,Small
+2023,Senior Level,Full Time,Data Engineer,158000,USD,158000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,218000,USD,218000,US,100,US,Medium
+2023,Executive,Full Time,Data Manager,75000,USD,75000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,84000,USD,84000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,55000,USD,55000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,159000,USD,159000,US,100,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Developer,120000,USD,120000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Architect,276000,USD,276000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,132500,USD,132500,US,100,US,Medium
+2024,Senior Level,Full Time,Data Product Manager,220000,USD,220000,GB,0,GB,Medium
+2023,Senior Level,Full Time,Business Intelligence Analyst,189000,USD,189000,US,100,US,Medium
+2022,Senior Level,Full Time,Data Engineer,154000,USD,154000,US,100,US,Medium
+2022,Entry Level,Full Time,Machine Learning Engineer,83000,USD,83000,US,0,US,Large
+2024,Mid Level,Full Time,Data Scientist,159550,USD,159550,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analytics Lead,84000,USD,84000,US,0,US,Medium
+2022,Mid Level,Full Time,Data Scientist,78000,USD,78000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Manager,112000,USD,112000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,97335,USD,97335,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,106020,USD,106020,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,197802,USD,197802,US,100,US,Medium
+2024,Entry Level,Full Time,Machine Learning Engineer,187500,USD,187500,US,0,US,Medium
+2022,Mid Level,Full Time,Data Scientist,145000,USD,145000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,154600,USD,154600,US,0,US,Medium
+2024,Mid Level,Full Time,Analytics Engineer,153000,USD,153000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Architect,100000,USD,100000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Infrastructure Engineer,385000,USD,385000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,185000,USD,185000,US,0,US,Medium
+2023,Senior Level,Full Time,Nlp Engineer,57000,EUR,61541,IT,100,IT,Medium
+2023,Mid Level,Full Time,Decision Scientist,142200,USD,142200,US,0,US,Medium
+2023,Senior Level,Full Time,Research Analyst,44272,EUR,47799,IT,100,IT,Medium
+2024,Senior Level,Full Time,Data Analyst,155000,USD,155000,US,0,US,Medium
+2023,Mid Level,Full Time,Decision Scientist,204500,USD,204500,US,0,US,Medium
+2024,Senior Level,Full Time,Research Engineer,54395,GBP,67993,ZA,0,ZA,Medium
+2024,Mid Level,Full Time,Prompt Engineer,240960,USD,240960,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,110000,USD,110000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Science Manager,137141,USD,137141,US,100,US,Medium
+2024,Senior Level,Full Time,Business Intelligence,192500,USD,192500,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,124500,USD,124500,US,0,US,Medium
+2023,Mid Level,Full Time,Research Scientist,210000,USD,210000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,131000,USD,131000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,116600,USD,116600,US,100,US,Medium
+2022,Mid Level,Full Time,Data Engineer,161000,USD,161000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,145360,USD,145360,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,175000,USD,175000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,168600,USD,168600,US,100,US,Medium
+2024,Entry Level,Full Time,Data Analyst,26800,GBP,33500,GB,0,GB,Medium
+2024,Senior Level,Full Time,Analytics Engineer,225000,USD,225000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Operations Analyst,81000,USD,81000,US,100,US,Medium
+2023,Entry Level,Full Time,Data Analyst,150000,USD,150000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,92000,USD,92000,CA,0,CA,Medium
+2020,Entry Level,Full Time,Data Scientist,43200,EUR,49268,DE,0,DE,Small
+2023,Senior Level,Full Time,Data Scientist,201450,USD,201450,US,100,US,Medium
+2024,Mid Level,Full Time,Data Modeler,114000,USD,114000,CA,0,CA,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,181000,USD,181000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Architect,90700,USD,90700,CA,100,CA,Medium
+2024,Mid Level,Full Time,Data Analyst,73100,USD,73100,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,119000,USD,119000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,165000,USD,165000,AU,0,AU,Medium
+2024,Senior Level,Full Time,Data Analytics Lead,398900,USD,398900,US,0,US,Medium
+2024,Senior Level,Full Time,Data Manager,104800,USD,104800,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,55000,EUR,59382,DE,50,DE,Large
+2023,Entry Level,Full Time,Data Scientist,119200,USD,119200,US,100,US,Medium
+2022,Senior Level,Full Time,Data Engineer,50000,USD,50000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,74100,USD,74100,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,98700,USD,98700,US,100,US,Medium
+2023,Senior Level,Full Time,Data Analyst,81800,USD,81800,GB,0,GB,Medium
+2023,Senior Level,Full Time,Data Strategist,119636,USD,119636,US,100,US,Medium
+2024,Senior Level,Full Time,Machine Learning Scientist,175000,USD,175000,US,0,US,Medium
+2022,Executive,Full Time,Data Engineer,242000,USD,242000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,204200,USD,204200,US,0,US,Medium
+2023,Mid Level,Full Time,Data Engineer,97000,USD,97000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Manager,60000,GBP,73824,GB,0,GB,Medium
+2023,Senior Level,Full Time,Data Analyst,139600,USD,139600,US,0,US,Medium
+2024,Mid Level,Full Time,Data Science,56000,EUR,62222,FI,0,FI,Medium
+2024,Mid Level,Full Time,Research Scientist,150000,USD,150000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Architect,90000,USD,90000,US,100,US,Medium
+2024,Mid Level,Full Time,Data Engineer,140000,USD,140000,CA,0,CA,Medium
+2023,Entry Level,Full Time,Data Integration Specialist,63750,USD,63750,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,169200,USD,169200,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,168000,USD,168000,US,0,US,Medium
+2023,Mid Level,Full Time,Applied Data Scientist,1700000,INR,20673,IN,100,IN,Large
+2023,Senior Level,Full Time,Data Engineer,109528,USD,109528,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,233840,USD,233840,US,0,US,Medium
+2023,Mid Level,Full Time,Machine Learning Engineer,120000,USD,120000,US,0,US,Small
+2023,Senior Level,Full Time,Data Engineer,124935,USD,124935,US,0,US,Medium
+2023,Entry Level,Full Time,Bi Developer,57000,USD,57000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,161900,USD,161900,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,146850,USD,146850,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,135200,USD,135200,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,106800,USD,106800,US,100,US,Medium
+2024,Senior Level,Full Time,Data Management Specialist,116500,USD,116500,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,116000,USD,116000,US,100,US,Medium
+2022,Senior Level,Full Time,Data Scientist,165000,USD,165000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Science,70000,USD,70000,US,0,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,140000,USD,140000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Scientist,65000,GBP,79976,GB,0,GB,Medium
+2023,Entry Level,Full Time,Ai Programmer,70000,USD,70000,IN,0,AU,Large
+2024,Mid Level,Full Time,Business Intelligence Developer,70650,USD,70650,US,0,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,142400,USD,142400,US,0,US,Medium
+2023,Senior Level,Full Time,Data Manager,82500,USD,82500,US,100,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,176000,USD,176000,US,0,US,Medium
+2023,Executive,Full Time,Data Engineer,465000,USD,465000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,45000,GBP,56250,GB,0,GB,Medium
+2021,Executive,Full Time,Head Of Data,230000,USD,230000,RU,50,RU,Large
+2023,Senior Level,Full Time,Data Architect,215000,USD,215000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,118720,USD,118720,US,100,US,Medium
+2024,Mid Level,Full Time,Data Scientist,180000,USD,180000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,105000,USD,105000,CA,0,CA,Medium
+2022,Mid Level,Full Time,Analytics Engineer,200000,USD,200000,US,0,US,Medium
+2023,Executive,Full Time,Head Of Data,329500,USD,329500,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,109400,USD,109400,US,0,US,Medium
+2022,Senior Level,Full Time,Data Engineer,117000,USD,117000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,92000,USD,92000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,90000,USD,90000,US,0,US,Medium
+2021,Mid Level,Full Time,Machine Learning Engineer,74000,USD,74000,JP,50,JP,Small
+2023,Senior Level,Full Time,Data Engineer,205500,USD,205500,US,0,US,Medium
+2021,Mid Level,Full Time,Data Scientist,39600,EUR,46809,ES,100,ES,Medium
+2022,Mid Level,Full Time,Data Analyst,100000,USD,100000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Science,237500,USD,237500,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,112000,USD,112000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,270000,USD,270000,US,0,US,Medium
+2024,Mid Level,Full Time,Machine Learning Engineer,85000,EUR,94444,IE,100,IE,Medium
+2024,Entry Level,Full Time,Data Analyst,58000,USD,58000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Engineer,120000,USD,120000,US,100,US,Medium
+2024,Entry Level,Full Time,Data Analyst,124650,USD,124650,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,138500,USD,138500,US,0,US,Medium
+2022,Entry Level,Full Time,Data Scientist,124234,USD,124234,US,0,US,Medium
+2024,Senior Level,Full Time,Data Architect,149000,USD,149000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,155000,USD,155000,CA,0,CA,Medium
+2023,Executive,Full Time,Head Of Data,270000,USD,270000,US,100,US,Medium
+2024,Executive,Full Time,Head Of Data,230000,USD,230000,US,100,US,Medium
+2024,Senior Level,Full Time,Robotics Engineer,152000,USD,152000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,139700,USD,139700,US,100,US,Medium
+2024,Senior Level,Full Time,Analytics Engineer,156000,USD,156000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,100000,USD,100000,US,0,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Analyst,176838,USD,176838,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,72000,EUR,77737,ES,100,ES,Medium
+2022,Entry Level,Contract,Applied Machine Learning Scientist,29000,EUR,30469,TN,100,CZ,Medium
+2024,Entry Level,Full Time,Data Analyst,102000,USD,102000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Scientist,105000,USD,105000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,112400,USD,112400,GB,0,GB,Medium
+2024,Senior Level,Full Time,Data Science,90000,USD,90000,US,0,US,Medium
+2022,Mid Level,Full Time,Machine Learning Scientist,112300,USD,112300,US,100,US,Large
+2023,Executive,Full Time,Director Of Data Science,175000,USD,175000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,241000,USD,241000,US,0,US,Medium
+2023,Mid Level,Full Time,Machine Learning Engineer,260000,USD,260000,US,0,US,Medium
+2023,Entry Level,Full Time,Ai Developer,60000,EUR,64781,DE,0,DE,Medium
+2022,Mid Level,Full Time,Data Scientist,70000,EUR,73546,NL,50,NL,Large
+2024,Entry Level,Full Time,Data Analyst,72128,EUR,80142,NL,0,NL,Medium
+2024,Senior Level,Full Time,Ml Engineer,212000,USD,212000,DE,0,DE,Medium
+2023,Executive,Full Time,Data Analyst,125000,USD,125000,US,100,US,Medium
+2024,Senior Level,Full Time,Business Intelligence,193000,USD,193000,US,0,US,Medium
+2024,Mid Level,Part Time,Research Scientist,138000,USD,138000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,155000,USD,155000,US,0,US,Medium
+2023,Executive,Full Time,Data Engineer,145000,USD,145000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,125600,USD,125600,US,100,US,Medium
+2022,Mid Level,Full Time,Data Analyst,135000,USD,135000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,118575,USD,118575,US,100,US,Medium
+2022,Senior Level,Full Time,Applied Scientist,142800,USD,142800,US,100,US,Medium
+2023,Senior Level,Full Time,Applied Scientist,250900,USD,250900,US,0,US,Medium
+2023,Mid Level,Full Time,Data Engineer,100000,GBP,123040,GB,0,GB,Medium
+2023,Senior Level,Full Time,Data Architect,285000,USD,285000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,185000,USD,185000,GB,0,GB,Medium
+2023,Mid Level,Full Time,Machine Learning Engineer,100000,USD,100000,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,418000,USD,418000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,87500,USD,87500,US,100,US,Medium
+2023,Senior Level,Full Time,Data Analyst,280000,USD,280000,US,0,US,Medium
+2022,Entry Level,Full Time,Data Scientist,93000,USD,93000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Analyst,110000,USD,110000,US,0,US,Medium
+2024,Entry Level,Full Time,Data Analyst,100000,USD,100000,US,0,US,Medium
+2024,Senior Level,Full Time,Ai Engineer,93300,USD,93300,US,0,US,Medium
+2024,Mid Level,Full Time,Data Integration Specialist,95500,USD,95500,US,100,US,Medium
+2023,Senior Level,Full Time,Research Scientist,180000,USD,180000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Architect,68400,USD,68400,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,110400,USD,110400,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,33966,GBP,42457,ZA,0,ZA,Medium
+2022,Mid Level,Full Time,Data Scientist,2400000,INR,30523,IN,100,IN,Large
+2024,Senior Level,Full Time,Data Operations Specialist,206500,USD,206500,US,0,US,Medium
+2023,Senior Level,Full Time,Principal Data Scientist,195000,USD,195000,US,100,US,Large
+2024,Senior Level,Full Time,Data Engineer,123700,USD,123700,US,0,US,Large
+2024,Senior Level,Full Time,Data Scientist,195000,USD,195000,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,189000,USD,189000,US,100,US,Medium
+2022,Mid Level,Full Time,Data Analyst,40000,GBP,49253,GB,100,GB,Medium
+2024,Entry Level,Full Time,Data Analyst,109700,USD,109700,US,0,US,Medium
+2022,Senior Level,Full Time,Principal Data Scientist,148000,EUR,155499,DE,100,DE,Medium
+2023,Senior Level,Full Time,Data Engineer,231000,USD,231000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,175000,USD,175000,CA,100,CA,Medium
+2022,Senior Level,Full Time,Data Architect,345600,USD,345600,US,0,US,Medium
+2024,Entry Level,Full Time,Data Science Analyst,150000,USD,150000,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Scientist,140000,USD,140000,US,0,US,Medium
+2023,Senior Level,Full Time,Applied Scientist,220000,USD,220000,US,100,US,Medium
+2023,Mid Level,Full Time,Research Scientist,240000,USD,240000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,179000,USD,179000,US,100,US,Medium
+2024,Entry Level,Part Time,Data Scientist,133000,USD,133000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,132000,USD,132000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,180514,USD,180514,GB,100,GB,Medium
+2023,Mid Level,Full Time,Data Science Engineer,113000,USD,113000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,101000,USD,101000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,235000,USD,235000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,119213,USD,119213,CA,100,CA,Medium
+2022,Senior Level,Full Time,Data Scientist,153000,USD,153000,US,100,US,Medium
+2023,Senior Level,Full Time,Bi Analyst,75000,USD,75000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,190000,USD,190000,CA,0,CA,Medium
+2024,Entry Level,Full Time,Data Engineer,81000,USD,81000,US,0,US,Large
+2021,Mid Level,Full Time,Data Scientist,30400000,CLP,40038,CL,100,CL,Large
+2023,Senior Level,Full Time,Data Analyst,154500,USD,154500,US,100,US,Medium
+2023,Senior Level,Full Time,Data Operations Manager,129000,USD,129000,US,100,US,Medium
+2024,Mid Level,Full Time,Data Engineer,100700,USD,100700,US,0,US,Medium
+2023,Entry Level,Full Time,Business Intelligence Analyst,80000,USD,80000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,120000,USD,120000,CA,0,CA,Medium
+2023,Mid Level,Full Time,Data Analyst,150000,USD,150000,US,100,US,Medium
+2024,Senior Level,Full Time,Analytics Engineer,329200,USD,329200,CA,100,CA,Medium
+2024,Mid Level,Full Time,Data Scientist,145000,USD,145000,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,189360,USD,189360,US,100,US,Medium
+2023,Mid Level,Full Time,Data Analyst,70000,USD,70000,PH,0,PH,Medium
+2023,Senior Level,Full Time,Data Scientist,228000,USD,228000,US,0,US,Medium
+2022,Entry Level,Full Time,Data Scientist,1400000,INR,17805,IN,100,IN,Medium
+2023,Entry Level,Full Time,Admin & Data Analyst,50000,USD,50000,DE,0,DE,Medium
+2023,Senior Level,Full Time,Data Engineer,105700,USD,105700,US,0,US,Large
+2022,Entry Level,Full Time,Data Analyst,20000,USD,20000,CR,50,US,Medium
+2023,Senior Level,Full Time,Data Analyst,78000,USD,78000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Manager,93000,USD,93000,US,0,US,Medium
+2023,Mid Level,Full Time,Mlops Engineer,134000,USD,134000,US,100,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,152900,USD,152900,GB,100,GB,Medium
+2022,Senior Level,Full Time,Data Engineer,166000,USD,166000,US,100,US,Medium
+2024,Mid Level,Full Time,Business Intelligence,178200,USD,178200,US,0,US,Medium
+2020,Mid Level,Full Time,Data Scientist,55000,EUR,62726,FR,50,LU,Small
+2023,Mid Level,Full Time,Data Engineer,158600,USD,158600,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,160000,USD,160000,CA,100,CA,Medium
+2024,Mid Level,Full Time,Machine Learning Engineer,126400,USD,126400,US,100,US,Medium
+2024,Mid Level,Full Time,Data Scientist,85000,USD,85000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Visualization Analyst,110000,USD,110000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Architect,174500,USD,174500,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,175000,USD,175000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,175000,USD,175000,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,163200,USD,163200,US,0,US,Medium
+2020,Entry Level,Full Time,Data Analyst,72000,USD,72000,US,100,US,Large
+2023,Senior Level,Full Time,Data Scientist,84000,USD,84000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,153000,USD,153000,US,100,US,Medium
+2024,Entry Level,Full Time,Machine Learning Engineer,99500,USD,99500,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Operations Engineer,60000,USD,60000,TH,100,US,Large
+2023,Senior Level,Full Time,Analytics Engineer,82920,USD,82920,US,100,US,Medium
+2022,Entry Level,Full Time,Data Engineer,65000,USD,65000,US,0,US,Medium
+2024,Mid Level,Full Time,Research Scientist,81500,USD,81500,US,100,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Engineer,150000,USD,150000,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,188000,USD,188000,US,100,US,Medium
+2021,Mid Level,Full Time,Data Analyst,80000,USD,80000,US,100,US,Large
+2024,Senior Level,Full Time,Research Scientist,103300,USD,103300,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Scientist,196350,USD,196350,US,100,US,Medium
+2022,Mid Level,Full Time,Bi Data Analyst,100000,EUR,105066,FR,50,FR,Medium
+2024,Senior Level,Full Time,Data Scientist,124875,USD,124875,US,0,US,Medium
+2022,Senior Level,Full Time,Data Engineer,110000,USD,110000,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,128000,USD,128000,US,100,US,Medium
+2023,Senior Level,Full Time,Research Engineer,225000,USD,225000,US,0,US,Medium
+2022,Mid Level,Full Time,Data Analyst,165000,USD,165000,US,0,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,190000,USD,190000,US,100,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,190400,USD,190400,US,0,US,Medium
+2024,Mid Level,Full Time,Bi Developer,43626,GBP,54532,GB,0,GB,Medium
+2022,Mid Level,Full Time,Data Engineer,115000,USD,115000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Lead,200000,USD,200000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,95000,USD,95000,US,0,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,291500,USD,291500,US,0,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,110000,USD,110000,CA,100,CA,Medium
+2024,Entry Level,Full Time,Data Science,128750,USD,128750,US,0,US,Medium
+2022,Mid Level,Full Time,Data Analyst,79000,USD,79000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Scientist,50000,GBP,61520,GB,100,GB,Medium
+2023,Senior Level,Full Time,Data Management Specialist,139500,USD,139500,US,0,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,200000,USD,200000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Modeler,155000,USD,155000,US,100,US,Large
+2024,Senior Level,Full Time,Data Engineer,102200,USD,102200,US,100,US,Medium
+2024,Entry Level,Full Time,Data Analyst,110000,USD,110000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,123990,USD,123990,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,195000,USD,195000,US,100,US,Medium
+2022,Senior Level,Full Time,Analytics Engineer,231250,USD,231250,US,100,US,Medium
+2023,Senior Level,Full Time,Research Scientist,260000,USD,260000,US,0,US,Medium
+2022,Mid Level,Full Time,Machine Learning Engineer,90000,USD,90000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,108500,USD,108500,US,0,US,Medium
+2023,Senior Level,Full Time,Ai Engineer,168000,USD,168000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Engineer,104000,USD,104000,US,0,US,Medium
+2023,Senior Level,Full Time,Computer Vision Engineer,194000,USD,194000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Science Lead,165000,USD,165000,US,50,US,Small
+2024,Senior Level,Full Time,Research Scientist,250800,USD,250800,US,0,US,Medium
+2024,Senior Level,Full Time,Mlops Engineer,160000,USD,160000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,208450,USD,208450,US,100,US,Medium
+2023,Senior Level,Full Time,Analytics Engineer,190000,USD,190000,CA,100,CA,Medium
+2024,Senior Level,Full Time,Ml Engineer,220000,USD,220000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Science Consultant,125000,USD,125000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Analyst,147000,USD,147000,US,100,US,Medium
+2024,Mid Level,Full Time,Machine Learning Engineer,130900,USD,130900,US,0,US,Medium
+2024,Entry Level,Full Time,Business Intelligence,65000,USD,65000,US,100,US,Medium
+2022,Senior Level,Full Time,Machine Learning Manager,150000,USD,150000,US,100,US,Medium
+2023,Executive,Full Time,Data Engineer,257400,USD,257400,US,100,US,Medium
+2024,Senior Level,Full Time,Data Architect,212000,USD,212000,AU,0,AU,Medium
+2024,Senior Level,Full Time,Data Analyst,131414,USD,131414,US,100,US,Medium
+2023,Senior Level,Full Time,Data Engineer,291500,USD,291500,US,0,US,Medium
+2024,Mid Level,Full Time,Data Analyst,88000,USD,88000,US,100,US,Medium
+2024,Senior Level,Full Time,Research Scientist,190000,USD,190000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Scientist,253000,USD,253000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Scientist,140000,USD,140000,US,100,US,Large
+2024,Senior Level,Full Time,Data Analyst,71688,EUR,79653,DE,100,DE,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,148594,USD,148594,US,0,US,Medium
+2024,Entry Level,Full Time,Analytics Engineer,66000,USD,66000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Architect,180000,USD,180000,US,100,US,Medium
+2024,Senior Level,Full Time,Business Intelligence Analyst,74000,GBP,92500,GB,0,GB,Medium
+2024,Senior Level,Full Time,Data Lead,200400,USD,200400,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,145640,USD,145640,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,123200,USD,123200,CA,100,CA,Medium
+2023,Executive,Full Time,Data Engineer,94000,USD,94000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,185900,USD,185900,US,100,US,Medium
+2023,Mid Level,Full Time,Data Scientist,170000,USD,170000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Architect,113000,USD,113000,US,0,US,Medium
+2022,Entry Level,Full Time,Data Manager,45600,USD,45600,US,100,US,Medium
+2022,Mid Level,Full Time,Analytics Engineer,54000,USD,54000,US,0,US,Medium
+2022,Senior Level,Full Time,Data Engineer,154600,USD,154600,US,100,US,Medium
+2024,Mid Level,Full Time,Data Scientist,199700,USD,199700,US,0,US,Medium
+2024,Senior Level,Full Time,Data Scientist,191027,USD,191027,US,0,US,Medium
+2022,Senior Level,Full Time,Data Scientist,123400,USD,123400,US,0,US,Medium
+2022,Entry Level,Full Time,Data Scientist,168000,USD,168000,US,100,US,Medium
+2024,Mid Level,Full Time,Data Science,180000,USD,180000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Architect,199600,USD,199600,US,0,US,Medium
+2023,Senior Level,Full Time,Data Quality Analyst,140000,USD,140000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,82000,USD,82000,US,0,US,Medium
+2023,Senior Level,Full Time,Ai Engineer,36000,EUR,38868,RO,0,RO,Medium
+2022,Senior Level,Full Time,Data Analyst,48000,EUR,50432,ES,0,ES,Medium
+2024,Senior Level,Full Time,Data Scientist,202800,USD,202800,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,247500,USD,247500,US,100,US,Medium
+2024,Executive,Full Time,Data Engineer,136000,USD,136000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Architect,184000,USD,184000,US,0,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,183750,USD,183750,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,81666,USD,81666,US,100,US,Medium
+2023,Mid Level,Full Time,Research Scientist,85000,USD,85000,US,0,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Analyst,95000,USD,95000,US,100,US,Medium
+2024,Senior Level,Full Time,Analytics Engineer,153018,USD,153018,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,147000,USD,147000,US,0,US,Medium
+2024,Entry Level,Full Time,Data Analyst,33600,EUR,37333,LT,0,LT,Medium
+2023,Senior Level,Full Time,Data Analyst,170550,USD,170550,US,100,US,Medium
+2024,Entry Level,Full Time,Research Scientist,253000,USD,253000,US,0,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,160000,USD,160000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,243800,USD,243800,US,100,US,Medium
+2023,Senior Level,Full Time,Data Analyst,144000,USD,144000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Pipeline Engineer,170000,USD,170000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,218500,USD,218500,US,0,US,Medium
+2024,Senior Level,Full Time,Ai Engineer,90000,USD,90000,AE,0,AE,Large
+2023,Mid Level,Full Time,Data Engineer,105000,GBP,129192,GB,0,GB,Medium
+2023,Senior Level,Full Time,Data Engineer,139400,USD,139400,US,0,US,Medium
+2023,Senior Level,Full Time,Data Operations Analyst,154000,USD,154000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Scientist,102500,USD,102500,US,0,US,Medium
+2024,Senior Level,Full Time,Data Engineer,234000,USD,234000,US,0,US,Medium
+2023,Mid Level,Full Time,Analytics Engineer,100000,USD,100000,US,0,US,Medium
+2023,Entry Level,Full Time,Data Analyst,71615,USD,71615,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,62300,USD,62300,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,207611,USD,207611,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,59570,USD,59570,CA,0,CA,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,206000,USD,206000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Engineer,118300,USD,118300,US,0,US,Medium
+2024,Entry Level,Full Time,Applied Scientist,166000,USD,166000,US,100,US,Medium
+2024,Senior Level,Full Time,Data Scientist,164000,USD,164000,US,100,US,Medium
+2023,Senior Level,Full Time,Machine Learning Engineer,200000,USD,200000,US,0,US,Medium
+2021,Senior Level,Full Time,Data Scientist,130000,CAD,103691,CA,100,CA,Large
+2024,Senior Level,Full Time,Research Scientist,85469,USD,85469,US,100,US,Medium
+2024,Entry Level,Full Time,Data Analyst,35000,GBP,43750,GB,100,GB,Medium
+2023,Mid Level,Full Time,Data Scientist,166000,USD,166000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,156000,USD,156000,CA,100,CA,Medium
+2024,Mid Level,Full Time,Analytics Engineer,79200,USD,79200,US,0,US,Medium
+2022,Senior Level,Full Time,Machine Learning Software Engineer,375000,USD,375000,US,100,US,Medium
+2023,Senior Level,Full Time,Research Scientist,253750,USD,253750,ES,0,ES,Medium
+2023,Entry Level,Full Time,Data Engineer,125000,USD,125000,US,0,US,Medium
+2023,Mid Level,Full Time,Bi Analyst,160000,USD,160000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,74880,USD,74880,US,0,US,Medium
+2024,Mid Level,Full Time,Research Engineer,100000,USD,100000,US,0,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,148000,USD,148000,US,0,US,Large
+2022,Senior Level,Full Time,Data Science Manager,175100,USD,175100,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,104000,USD,104000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,140000,USD,140000,US,0,US,Medium
+2024,Senior Level,Full Time,Data Science,267900,USD,267900,US,0,US,Medium
+2024,Mid Level,Full Time,Data Engineer,113000,USD,113000,US,0,US,Medium
+2023,Senior Level,Full Time,Data Analyst,1300000,INR,15809,IN,100,IN,Small
+2022,Senior Level,Full Time,Machine Learning Engineer,255000,USD,255000,MX,100,MX,Medium
+2024,Mid Level,Full Time,Data Engineer,75000,USD,75000,US,0,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,54000,USD,54000,BR,100,BR,Medium
+2024,Mid Level,Full Time,Data Scientist,177300,USD,177300,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,177000,USD,177000,GB,0,GB,Medium
+2023,Senior Level,Full Time,Ml Engineer,331640,USD,331640,US,0,US,Medium
+2023,Senior Level,Full Time,Machine Learning Infrastructure Engineer,220000,USD,220000,US,100,US,Medium
+2023,Senior Level,Full Time,Ml Engineer,289076,USD,289076,US,0,US,Medium
+2023,Senior Level,Full Time,Data Engineer,65488,USD,65488,US,0,US,Medium
+2022,Senior Level,Full Time,Data Engineer,164000,USD,164000,US,0,US,Medium
+2024,Mid Level,Full Time,Data Scientist,158100,USD,158100,US,0,US,Medium
+2023,Senior Level,Full Time,Data Scientist,178538,USD,178538,US,100,US,Medium
+2023,Mid Level,Full Time,Data Operations Analyst,44640,USD,44640,US,100,US,Medium
+2023,Mid Level,Full Time,Data Engineer,52000,GBP,63980,GB,100,GB,Medium
+2023,Senior Level,Full Time,Data Engineer,266875,USD,266875,US,0,US,Medium
+2024,Mid Level,Full Time,Data Science Engineer,135000,USD,135000,US,100,US,Medium
+2023,Senior Level,Full Time,Data Analyst,75000,USD,75000,US,100,US,Medium
+2023,Mid Level,Full Time,Data Scientist,150000,USD,150000,US,0,US,Medium
+2023,Mid Level,Full Time,Data Analyst,80000,USD,80000,US,0,US,Medium
+2022,Mid Level,Full Time,Mlops Engineer,134000,USD,134000,US,100,US,Medium
+2023,Senior Level,Full Time,Business Intelligence Engineer,118200,USD,118200,US,100,US,Medium
+2023,Senior Level,Full Time,Data Scientist,156100,USD,156100,CA,0,CA,Medium
+2023,Senior Level,Full Time,Data Analyst,100000,USD,100000,US,0,US,Medium
+2023,Senior Level,Full Time,Research Engineer,157250,USD,157250,US,100,US,Medium
+2024,Senior Level,Full Time,Machine Learning Engineer,283780,USD,283780,US,0,US,Medium
