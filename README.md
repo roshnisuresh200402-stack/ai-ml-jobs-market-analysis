@@ -41,7 +41,7 @@
 ## Dashboard
 
 View the Power BI dashboard export:
-[Click here to view dashboard PDF](dashboard/ai_jobs_dashboard.pdf)
+[Click here to view dashboard PDF](ai job project.pdf)
 
 ---
 
