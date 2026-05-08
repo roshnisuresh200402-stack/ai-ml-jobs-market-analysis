@@ -55,8 +55,11 @@ View the Power BI dashboard export:
 
 ## Dataset
 
-Source: Kaggle — AI/ML Salaries Dataset
-Rows analysed: 16,467 | Columns: 11 | Years: 2022–2024
+Source: Kaggle — AI/ML Salaries Dataset  
+Full dataset: https://www.kaggle.com/datasets/chopper53/machine-learning-engineer-salary-in-2024  
+Note: Repository contains a 500-row sample. Full dataset (16,467 rows) available at the Kaggle link above.
+Rows analysed: 16,467 | Columns: 11 | Years: 2020–2024
+
 
 ---
 
