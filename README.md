@@ -41,7 +41,7 @@
 ## Dashboard
 
 View the Power BI dashboard export:
-[Click here to view dashboard PDF](ai job project.pdf)
+[Click here to view dashboard PDF]([ai job project.pdf](https://github.com/roshnisuresh200402-stack/ai-ml-jobs-market-analysis/blob/main/ai%20job%20project.pdf))
 
 ---
 
