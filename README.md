@@ -67,4 +67,4 @@ Rows analysed: 16,467 | Columns: 11 | Years: 2020–2024
 
 **Your Full Name**
 LinkedIn: www.linkedin.com/in/roshnisuresh200420
-Email: [your@email.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+Email: roshnisuresh200402@gmail.com
